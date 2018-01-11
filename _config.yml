@@ -1,4 +1,4 @@
-logo: 明曦小栈 # add logo name
+logo: # add logo name
 title: 明曦小栈
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -10,8 +10,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
-banner-title: 1 # add banner title
-banner-desc: 2 # add banner description
+banner-title: # add banner title
+banner-desc:  # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
