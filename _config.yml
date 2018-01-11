@@ -15,8 +15,8 @@ banner-desc: # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo
-author-name:明曦小栈 # your name
-about-author:hexiang # about author
+author-name:# your name
+about-author: # about author
 email: 309355785@qq.com.com # your email
 phone: (496)-169-6557 # your pnone number
 website: https://www.nogis.cn # you website
