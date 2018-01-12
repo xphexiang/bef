@@ -23,11 +23,11 @@ website: https://www.nogis.cn # you website
 
 # Social link
 github_url: https://github.com/xphexiang # add url link
-twitter_url:   # add url link 
-instagram_url: # add url link
-pinterest_url: # add url link
-dribbble_url:  # add url link
-facebook_url:  # add url link
+cnblogs_url: https://www.cnblogs.com/he-xiang/ # add url link 
+arcgis_url: https://developers.arcgis.com/javascript/ # add url link
+aliyun_url: https://www.aliyun.com/ # add url link
+jekyll_url: https://www.jekyll.com.cn/ # add url link
+unity3d_url: https://docs.unity3d.com/Manual/index.html # add url link
 
 # Disqus
 discus_identifier: mr-brown # add your discus identifier
