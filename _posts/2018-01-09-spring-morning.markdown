@@ -4,7 +4,7 @@ title:      "春-晨"
 subtitle:   "Spring and morning"
 date:       2018-01-09 23:00:00
 author:     "Hector.Z"
-header-img: "img/post-think-try-write.jpg"
+header-img: "alaska.jpg"
 tags:
     - 聊聊
 ---
