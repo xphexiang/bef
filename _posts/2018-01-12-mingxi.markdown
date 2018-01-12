@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "HI! 小伙子"
-img: himalayan.jpg # Add image post (optional)
-date: 2017-07-12 12:55:00 +0300
+title: "半夜睡不着觉"
+img: 20180112092738.jpg # Add image post (optional)
+date: 2018-01-12 12:55:00 +0300
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Travel, Blogging, Mountains]
 ---
@@ -10,6 +10,6 @@ Flexitarian hella quinoa, stumptown chillwave squid heirloom pop-up church-key. 
 
 Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
 
->最近不听话啊，半夜总是吵，什么时候才能长大啊. <cite>- 明曦妈妈</cite>
+>老公和孩子在睡觉，可是我睡不着……. <cite>- 明曦妈妈</cite>
 
 Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
