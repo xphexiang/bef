@@ -1,0 +1,13 @@
+---
+layout: post
+title: "准备游泳"
+img: youyong.jpg # Add image post (optional)
+date: 2017-12-29 09:55:00 +0300
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+tag: [Travel, Blogging, Mountains]
+---
+今天是宝贝第一次游泳，大舅舅妈一起陪着去的喔，地点在鑫悦汇的笨笨熊。第一晚来长沙，放桶子里洗澡，脚没有踩到底就会大哭，没有安全感，心想着这游泳肯定会怕。
+下水前脱衣服做操，可乐呵了
+放到水里前面30秒没有啥表情，不哭不闹，蹬着小脚丫子，感觉真是意外，但是很明显表情里没有“享受”二字，结果帅不过30秒开始大哭，求安慰。拉着嗓门哭，可怜的小眼神望着我，好想去抱抱你，是不是抱你上来算啦，可又想得锻炼你啊，不能太心软了，心里两个小人打得火热。结果足足哭了两分来钟，两分钟里，我内心很是煎熬，后面店里大姐手托着你的身体，貌似有了一些安全感，停止哭，心想着这下应该适应了，结果睡不过10秒又大哭……后面你哭得嗓子都有点哑了，实在不忍心，还是让你上了岸。
+妈妈期待着你二次下水，到时候爸爸也陪着一起来喔，本次由于爸爸上班，未陪着一起来。
+
