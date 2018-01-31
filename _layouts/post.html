@@ -7,7 +7,7 @@ layout: default
   <article class="post">
     <header>
       <div class="post_image">
-        <img src={{ "/assets/img/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
+        <img src={{ "/assets/img/log/" | prepend: site.baseurl | append : page.img}} alt="{{page.title}}">
       </div>
       <div class="post_description">
         <p class="post_meta">{{page.date | date: '%Y, %b %d'}}</p>
@@ -74,7 +74,7 @@ layout: default
       <div class="recent_list">
         {% for post in site.posts offset:0 limit:6 %}
           {% if post.title %}
-            <a href="{{ root_url }}{{ post.url }}" class="recent_item" style="background-image: url( {{ "/assets/img/log/" | prepend: site.baseurl | append : post.img}} )"><span>{{ post.title }}</span></a>
+            <a href="{{ root_url }}{{ post.url }}" class="recent_item" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )"><span>{{ post.title }}</span></a>
           {% endif %}
         {% endfor %}
       </div>
