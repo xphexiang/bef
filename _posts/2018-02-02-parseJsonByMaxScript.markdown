@@ -24,7 +24,8 @@ close JsonFile
 
 
 -- 加载模块
-(dotnetClass "System.Reflection.assembly").Load ((dotnetClass "System.IO.File").ReadAllBytes(JsonDllPath))
+(dotnetClass "System.Reflection.assembly").Load 
+((dotnetClass "System.IO.File").ReadAllBytes(JsonDllPath))
 -- 解析Json格式的字符
 LinqJsonObj = (dotNetObject "Newtonsoft.Json.Linq.JObject").parse JsonString
 
@@ -62,9 +63,20 @@ if(windowValue.Count>0) then
 		(
 			case windowType of
 			(
-				"一般直窗": for i=0 to(windowXYZ.Count-1) do( format "%:%\n" windowType  (windowXYZ.Item[i].Value as string)   )
-				"飘窗": for i=0 to(windowXYZ.Count-1) do( format "%:start:%;end:%\n" windowType ((windowXYZ.Item[i].GetValue "start").Value as string)  ((windowXYZ.Item[i].GetValue "end").Value as string)  )
-				"落地窗": for i=0 to(windowXYZ.Count-1) do( format "%:%\n" windowType  (windowXYZ.Item[i].Value as string)   )
+				"一般直窗": for i=0 to(windowXYZ.Count-1) do
+				( 
+				format "%:%\n" windowType  (windowXYZ.Item[i].Value as string)  
+				)
+				"飘窗": for i=0 to(windowXYZ.Count-1) do
+				( 
+				format "%:start:%;end:%\n" windowType 
+				((windowXYZ.Item[i].GetValue "start").Value as string)  
+				((windowXYZ.Item[i].GetValue "end").Value as string) 
+				)
+				"落地窗": for i=0 to(windowXYZ.Count-1) do
+				(
+				format "%:%\n" windowType  (windowXYZ.Item[i].Value as string)   
+				)
 			
 			)
 		)
@@ -87,9 +99,18 @@ if(doorValue.Count>0) then
 		(
 			case doorType of
 			(
-				"单开门":for i=0 to(doorXYZ.Count-1) do( format "%:%\n" doorType  (doorXYZ.Item[i].Value as string) )
-				"双开门":for i=0 to(doorXYZ.Count-1) do( format "%:%\n" doorType  (doorXYZ.Item[i].Value as string) )
-				"推拉门":for i=0 to(doorXYZ.Count-1) do( format "%:%\n" doorType  (doorXYZ.Item[i].Value as string) )
+				"单开门":for i=0 to(doorXYZ.Count-1) do
+				(
+				format "%:%\n" doorType  (doorXYZ.Item[i].Value as string)
+				)
+				"双开门":for i=0 to(doorXYZ.Count-1) do
+				( 
+				format "%:%\n" doorType  (doorXYZ.Item[i].Value as string) 
+				)
+				"推拉门":for i=0 to(doorXYZ.Count-1) do
+				( 
+				format "%:%\n" doorType  (doorXYZ.Item[i].Value as string)
+				)
 			)
 		)
 	)
@@ -106,11 +127,31 @@ if(columnValue.Count>0) then
 		(
 			for i=0 to (columnValueXYZ.Count-1) do
 			(
-				format "墙柱%点%，坐标为：%\n" index i (columnValueXYZ.Item[i].Value as string)
+				format "墙柱%点%，坐标为：%\n" index i 
+				(columnValueXYZ.Item[i].Value as string)
 			)
 		)
 	)
 )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ```
